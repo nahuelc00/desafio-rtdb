@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto";
+}
+
+.header {
+  height: 60px;
+  background-color: #ff8282;
+}
+
+/*FORM*/
+/* .fieldset {
+  border-style: none;
+  display: grid;
+  margin: 0;
+  padding: 0;
+}
+
+.label {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.input {
+  height: 55px;
+  border: 2px solid #000000;
+  border-radius: 4px;
+  margin: 0;
+}
+.button {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 22px;
+  background: #9cbbe9;
+  border-style: none;
+  height: 100%;
+  width: 100%;
+  border-radius: 4px;
+} */
+
+/*PAGE CHAT*/
+/* .content {
+  padding: 16px 32px 32px 32px;
+}
+
+.content__title {
+  font-size: 52px;
+  font-weight: 700;
+  margin: 0 0 26px 0;
+}
+
+.content__messages {
+  display: flex;
+  margin: 0 auto;
+  max-width: 415px;
+  justify-content: flex-end;
+  flex-direction: column;
+  height: 60vh;
+}
+.content__message {
+  margin: 0 0 12px 0;
+  display: flex;
+  justify-content: flex-end;
+}
+.content__message p {
+  background-color: #b9e97c;
+  width: 70px;
+  display: flex;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  margin: 0;
+}
+.content__message-user {
+  margin: 0 0 12px 0;
+  display: grid;
+  justify-content: flex-start;
+}
+.content__label-user {
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0;
+  color: #a5a5a5;
+}
+.content__text-user {
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 52px;
+  width: 106px;
+  border-radius: 4px;
+  background-color: #d8d8d8;
+}
+
+.content__cont-form {
+  max-width: 415px;
+  margin: 0 auto;
+}
+
+.content__cont-button {
+  height: 55px;
+  margin: 12px 0 0 0;
+} */
